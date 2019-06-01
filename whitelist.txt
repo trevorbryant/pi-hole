@@ -50,3 +50,14 @@ gravatar.com
 www.hikarirestaurant.com
 www.irongeek.com
 amp-reddit-com.cdn.ampproject.org
+financialprovider-logos.platform.intuit.com
+trinity.platform.intuit.com
+www.creditcards.com
+beacons5.gvt2.com
+beacons4.gvt2.com
+beacons3.gvt2.com
+beacons2.gvt2.com
+beacons.gcp.gvt2.com
+beyonduserpaid.api.intuit.com
+eventbus.intuit.com
+api.mixpanel.com
