@@ -15,8 +15,8 @@
 ^track(ers?|ing)?[0-9]*[-.]
 ^traff(ic)?[-.]
 (.*)\.g00\.(.*)
-^(.+\.)?amp\..+\.com$
-^(.+\.)?ampproject\.org$
+#^(.+\.)?amp\..+\.com$
+#^(.+\.)?ampproject\.org$
 ^https?://([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo\.com/
 ^https?://([A-Za-z0-9.-]*\.)?secure\.footprint\.net/
 ^https?://([A-Za-z0-9.-]*\.)?match\.com/

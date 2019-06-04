@@ -7,5 +7,8 @@ The following live in `/etc/pihole`.
   * setupVars.conf
   * whitelist.txt
 
-The following live in `/etc/cron.weekly` for weekly upgrades.
+This lives in `/etc/cron.weekly` for weekly upgrades.
   * upgrade
+
+This can live anywhere and configured in crontab.
+  * pihole-backup
