@@ -61,3 +61,7 @@ beacons.gcp.gvt2.com
 beyonduserpaid.api.intuit.com
 eventbus.intuit.com
 api.mixpanel.com
+patreon.com
+www.patreon.com
+api.segment.io
+id.google.com
