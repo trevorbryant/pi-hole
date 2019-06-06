@@ -65,3 +65,5 @@ patreon.com
 www.patreon.com
 api.segment.io
 id.google.com
+mobile.pipe.aria.microsoft.com
+s1528.t.eloqua.com
