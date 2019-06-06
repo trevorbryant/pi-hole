@@ -1,7 +1,8 @@
 #!/bin/bash
 
 cp /etc/pihole/adlists.list /etc/pihole/regex.list /etc/pihole/setupVars.conf /etc/pihole/whitelist.txt /root/pihole-backup /root/pi-hole/ ; \
-    sed -i -E s/^WEBPASSWORD=[A-Za-z0-9]*/WEBPASSWORD=redacted/ /root/pi-hole/setupVars.conf ; \
+    sed -i -E s/^WEBPASSWORD=[A-Za-z0-9]*/WEBPASSWORD=/ /root/pi-hole/setupVars.conf ; \
+    sed -i -E s/[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\/''/g /root/pi-hole/setupVars.conf ; \
     cd /root/pi-hole ; \
     git add . ; \
     git commit -m "$(date +"%m-%d-%Y")" ; \
