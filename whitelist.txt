@@ -67,3 +67,4 @@ api.segment.io
 id.google.com
 mobile.pipe.aria.microsoft.com
 s1528.t.eloqua.com
+cvs.co
