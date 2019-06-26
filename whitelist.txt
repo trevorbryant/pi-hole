@@ -68,3 +68,5 @@ id.google.com
 mobile.pipe.aria.microsoft.com
 s1528.t.eloqua.com
 cvs.co
+offcnt.intuit.com
+credit.finance.intuit.com
