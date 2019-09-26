@@ -1,0 +1,14 @@
+[sshd]
+enabled = true
+port = 22
+filter = sshd
+logpath = /var/log/auth.log
+maxretry = 3
+
+[http]
+enabled   = true
+port      = http,https
+filter    = lighttpd-auth
+logpath   = /var/log/lighttpd/access.log
+maxretry  = 3
+ignoreip = 10.8.0.1
